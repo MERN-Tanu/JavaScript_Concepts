@@ -38,6 +38,7 @@ console.log('Namaste Dunia version4');
 //     console.log('E');
 //}
 
+// Switch case
 // let num = 1;
 
 // switch(num) {
@@ -50,11 +51,13 @@ console.log('Namaste Dunia version4');
 //     default: console.log('D');
 // }
 
-
+// For loop
 // for(let i = 1; i<=5; i=i+1) {
 //     console.log("Babbar" + i);
 // }
 
+
+//  While Loop
 // let x = 1;
 
 // while(x <= 5) {
@@ -62,6 +65,7 @@ console.log('Namaste Dunia version4');
 //     x++;
 // }
 
+//  Do while Loop
 let y = 1;
 
 do {
