@@ -1,8 +1,8 @@
 // console.log('Hello Jee');
 
-// let lastName = 'Babbar' ;
+// let lastName = 'tanu' ;
 
-// let firstName = new String('Love');
+// let firstName = new String('tanu');
 
 // let message = 
 // `Hello ${lastName},
@@ -10,7 +10,7 @@
 // Thanks for the Opportunity
 
 // Regards,
-// Babbar`;
+// tanu`;
 
 // console.log(message);
 
